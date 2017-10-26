@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    }
+]
