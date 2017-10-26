@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 26 00:51:10 EDT 2017
+#Thu Oct 26 01:49:30 EDT 2017
 2185.file=C\:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\build\\intermediates\\assets\\F0\\debug\\app\\tns_modules\\nativescript-angular\\forms\\value-accessors\\number-value-accessor.js
 1425.base=C\:\\workarea\\projects\\aleggeup\\hello-world-ng-native\\platforms\\android\\build\\intermediates\\assets\\F0\\debug
 2716.set=ASSET
