@@ -19,5 +19,7 @@ import { Component } from "@angular/core";
   `]
 })
 export class AppComponent {
-  // Your TypeScript logic goes here
+  constructor() {
+    console.log("Hello World");
+  }
 }
